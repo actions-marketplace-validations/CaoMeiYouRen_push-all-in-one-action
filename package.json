@@ -59,7 +59,7 @@
     "@types/node": "^20.0.0",
     "@typescript-eslint/parser": "^6.0.0",
     "@vercel/ncc": "^0.38.0",
-    "conventional-changelog-cmyr-config": "^2.0.3",
+    "conventional-changelog-cmyr-config": "^3.0.0",
     "cross-env": "^7.0.3",
     "eslint": "^8.5.0",
     "eslint-config-cmyr": "^1.1.15",
