@@ -41,7 +41,7 @@
   "author": "CaoMeiYouRen",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^3.0.0",
     "axios": "^1.0.0",
     "colors": "^1.4.0",
     "push-all-in-one": "^2.0.0"
